@@ -237,7 +237,8 @@ plt.ylabel('Receita (Milhares de dólares)')
 plt.xlabel('Mês')
 plt.show()
 ```
-![download](https://github.com/user-attachments/assets/51c90c06-a777-4355-b98a-46f0686d1fef)
+![download](https://github.com/user-attachments/assets/e3e63ae6-1543-4157-b31d-2250228e6518)
+
 
 <h3>5.2 Análise temporal por região</h3>
 

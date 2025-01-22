@@ -275,5 +275,10 @@ plt.show()
 ![download](https://github.com/user-attachments/assets/825bfdc7-8836-4449-90f1-01382b2e6d74)
 
 
+# Dashboard POWERBI
+
+![{1ACBEDB5-24F5-425F-BAD7-B39CD1188F97}](https://github.com/user-attachments/assets/53af735f-dc96-4183-80ff-53497a676e3e)
+
+Faça o download do arquivo <strong>Dashboard.pbix</strong> para visualizar o relatório ou [clique aqui](https://app.powerbi.com/view?r=eyJrIjoiNzkyYmY1NjQtMmYyOC00YWZkLTkyYzAtODI4ZmYxYzc4YzNkIiwidCI6IjdjZDc0M2Y4LTA5MTgtNGU2OC04NGU5LTlkY2Q4MmU0ODBhZiJ9)
 
 

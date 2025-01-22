@@ -227,8 +227,6 @@ Para a modelagem, foi utilizado um RandomForestRegressor, que foi treinado com o
 
 O RMSE é uma métrica comum para avaliar a precisão dos modelos de regressão. Quanto menor o valor do RMSE, melhor o modelo se ajusta aos dados reais. Nesse caso, um RMSE de 148,194.38 significa que, em média, as previsões de receita do modelo estão com um erro de cerca de 148 mil dólares, o que pode ser considerado razoável dependendo da magnitude das receitas reais e do objetivo de precisão do modelo.
 
-Esse valor indica que o modelo possui uma boa capacidade preditiva, mas ainda há espaço para melhorias. Ajustes no modelo, como a adição de mais variáveis ou a otimização dos parâmetros do modelo, podem resultar em uma redução do erro e em previsões mais precisas.</p>
-
 <h2>5. Identificação de tendências de mercado e análise regional</h2>
 <h3>5.1 Tendências de receita ao longo do ano</h3>
 
